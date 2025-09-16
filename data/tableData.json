@@ -1,0 +1,212 @@
+{
+  "columns": [
+    {
+      "key": "name",
+      "label": "Сценарист",
+      "type": "text"
+    },
+    {
+      "key": "broadcast",
+      "label": "Трансляции",
+      "type": "text"
+    },
+    {
+      "key": "montageKira",
+      "label": "Монтаж (Кира)",
+      "type": "checkbox"
+    },
+    {
+      "key": "montageDmitry",
+      "label": "Монтаж (Дмитрий)",
+      "type": "checkbox"
+    },
+    {
+      "key": "montageFullKira",
+      "label": "Монтаж Full (Кира)",
+      "type": "checkbox"
+    },
+    {
+      "key": "montageFullDima",
+      "label": "Монтаж Full (Дима)",
+      "type": "checkbox"
+    },
+    {
+      "key": "publishYoutube",
+      "label": "Публикация YouTube",
+      "type": "checkbox"
+    },
+    {
+      "key": "montageShortsKira",
+      "label": "Монтаж Shorts (Кира)",
+      "type": "checkbox"
+    },
+    {
+      "key": "montageShortsDima",
+      "label": "Монтаж Shorts (Дима)",
+      "type": "checkbox"
+    },
+    {
+      "key": "publishShorts",
+      "label": "Публикация YouTube Shorts",
+      "type": "checkbox"
+    }
+  ],
+  "rows": [
+    {
+      "id": "pavel-kanaev",
+      "name": "Павел Канаев",
+      "broadcast": "22.12.24",
+      "montageKira": "",
+      "montageDmitry": "",
+      "montageFullKira": "",
+      "montageFullDima": "",
+      "publishYoutube": "",
+      "montageShortsKira": "",
+      "montageShortsDima": "",
+      "publishShorts": ""
+    },
+    {
+      "id": "leonid-viktorovich",
+      "name": "Леонид Викторович",
+      "broadcast": "",
+      "montageKira": "",
+      "montageDmitry": "",
+      "montageFullKira": "",
+      "montageFullDima": "",
+      "publishYoutube": "",
+      "montageShortsKira": "",
+      "montageShortsDima": "",
+      "publishShorts": ""
+    },
+    {
+      "id": "evgeniy-zhukov",
+      "name": "Евгений Жуков",
+      "broadcast": "19.01.25",
+      "montageKira": "",
+      "montageDmitry": "",
+      "montageFullKira": "",
+      "montageFullDima": "",
+      "publishYoutube": "",
+      "montageShortsKira": "",
+      "montageShortsDima": "",
+      "publishShorts": ""
+    },
+    {
+      "id": "aleksei-makarov",
+      "name": "Алексей Макаров",
+      "broadcast": "",
+      "montageKira": "",
+      "montageDmitry": "",
+      "montageFullKira": "",
+      "montageFullDima": "",
+      "publishYoutube": "",
+      "montageShortsKira": "",
+      "montageShortsDima": "",
+      "publishShorts": ""
+    },
+    {
+      "id": "aleksandra-shevchenko",
+      "name": "Александра Шевченко",
+      "broadcast": "",
+      "montageKira": "",
+      "montageDmitry": "",
+      "montageFullKira": "",
+      "montageFullDima": "",
+      "publishYoutube": "",
+      "montageShortsKira": "",
+      "montageShortsDima": "",
+      "publishShorts": ""
+    },
+    {
+      "id": "aleksandr-chernov",
+      "name": "Александр Чернов",
+      "broadcast": "20.01.25",
+      "montageKira": "",
+      "montageDmitry": "",
+      "montageFullKira": "",
+      "montageFullDima": "",
+      "publishYoutube": "",
+      "montageShortsKira": "",
+      "montageShortsDima": "",
+      "publishShorts": ""
+    },
+    {
+      "id": "pavel-ermolaev",
+      "name": "Павел Ермолаев",
+      "broadcast": "",
+      "montageKira": "",
+      "montageDmitry": "",
+      "montageFullKira": "",
+      "montageFullDima": "",
+      "publishYoutube": "",
+      "montageShortsKira": "",
+      "montageShortsDima": "",
+      "publishShorts": ""
+    },
+    {
+      "id": "andrei-artemov",
+      "name": "Андрей Артёмов",
+      "broadcast": "",
+      "montageKira": "",
+      "montageDmitry": "",
+      "montageFullKira": "",
+      "montageFullDima": "",
+      "publishYoutube": "",
+      "montageShortsKira": "",
+      "montageShortsDima": "",
+      "publishShorts": ""
+    },
+    {
+      "id": "svetlana-gorina",
+      "name": "Светлана Горина",
+      "broadcast": "",
+      "montageKira": "",
+      "montageDmitry": "",
+      "montageFullKira": "",
+      "montageFullDima": "",
+      "publishYoutube": "",
+      "montageShortsKira": "",
+      "montageShortsDima": "",
+      "publishShorts": ""
+    },
+    {
+      "id": "galina-fedorova",
+      "name": "Галина Фёдорова",
+      "broadcast": "",
+      "montageKira": "",
+      "montageDmitry": "",
+      "montageFullKira": "",
+      "montageFullDima": "",
+      "publishYoutube": "",
+      "montageShortsKira": "",
+      "montageShortsDima": "",
+      "publishShorts": ""
+    },
+    {
+      "id": "mikhail-volkov",
+      "name": "Михаил Волков",
+      "broadcast": "",
+      "montageKira": "",
+      "montageDmitry": "",
+      "montageFullKira": "",
+      "montageFullDima": "",
+      "publishYoutube": "",
+      "montageShortsKira": "",
+      "montageShortsDima": "",
+      "publishShorts": ""
+    },
+    {
+      "id": "sergey-grachev",
+      "name": "Сергей Грачев",
+      "broadcast": "",
+      "montageKira": "",
+      "montageDmitry": "",
+      "montageFullKira": "",
+      "montageFullDima": "",
+      "publishYoutube": "",
+      "montageShortsKira": "",
+      "montageShortsDima": "",
+      "publishShorts": ""
+    }
+  ]
+}

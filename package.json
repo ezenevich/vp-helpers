@@ -1,0 +1,14 @@
+{
+  "name": "vp-helpers",
+  "version": "1.0.0",
+  "description": "Таблица для отслеживания задач с хранением данных в JSON",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No automated tests specified\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
