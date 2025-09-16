@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Таблица задач</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="page">
+      <header class="page__header">
+        <div>
+          <h1 class="page__title">Статус публикаций</h1>
+          <p class="page__subtitle">
+            Отмечайте выполнение задач — галочка проставит сегодняшнюю дату, а
+            её снятие очистит ячейку.
+          </p>
+        </div>
+        <div id="status" class="status" role="status" aria-live="polite"></div>
+      </header>
+
+      <section class="table-card" aria-labelledby="table-title">
+        <div class="table-card__header">
+          <h2 id="table-title">Команда редакции</h2>
+          <button id="refresh" class="refresh-button" type="button">Обновить данные</button>
+        </div>
+        <div class="table-card__body">
+          <div class="table-wrapper">
+            <table id="task-table" class="task-table">
+              <thead></thead>
+              <tbody></tbody>
+            </table>
+          </div>
+          <div id="loading" class="loading" hidden>Загружаем таблицу…</div>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="app.js"></script>
+  </body>
+</html>
